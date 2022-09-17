@@ -1,0 +1,3 @@
+# Shoppr
+
+An iOS shopping list app in which users can scan price tags with text recognition and track their purchases. Item prices are stored in a MongoDB Atlas instance and made available through a REST API created with Node. Stores can call this API to see which items users are buying at which stores and make business decisions with this information. Users can decide where to shop based on current prices.
