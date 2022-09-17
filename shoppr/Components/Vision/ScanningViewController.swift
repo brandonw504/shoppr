@@ -1,6 +1,6 @@
 //
 //  ViewController.swift
-//  label-scanner
+//  shoppr
 //
 //  Created by Brandon Wong on 7/6/22.
 //

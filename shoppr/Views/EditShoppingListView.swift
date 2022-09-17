@@ -1,6 +1,6 @@
 //
 //  EditShoppingListView.swift
-//  label-scanner
+//  shoppr
 //
 //  Created by Brandon Wong on 7/19/22.
 //

@@ -1,6 +1,6 @@
 //
 //  OpenSyncedRealmView.swift
-//  label-scanner
+//  shoppr
 //
 //  Created by Brandon Wong on 8/1/22.
 //
@@ -14,7 +14,7 @@ struct OpenSyncedRealmView: View {
     // your App Services app before opening the realm.
     // Leave the `partitionValue` an empty string to get this
     // value from the environment object passed in above.
-    // @AsyncOpen(appId: "running-total-xxxxx", partitionValue: "", timeout: 4000) var asyncOpen
+    // @AsyncOpen(appId: realmKey, partitionValue: "", timeout: 4000) var asyncOpen
     
     // always show data, offline
     @AutoOpen(appId: realmKey, partitionValue: "", timeout: 4000) var realmOpen

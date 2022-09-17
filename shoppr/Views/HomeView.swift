@@ -1,6 +1,6 @@
 //
 //  ContentView.swift
-//  label-scanner
+//  shoppr
 //
 //  Created by Brandon Wong on 6/9/22.
 //

@@ -1,6 +1,6 @@
 //
-//  label_scannerApp.swift
-//  label-scanner
+//  shopprApp.swift
+//  shoppr
 //
 //  Created by Brandon Wong on 6/9/22.
 //

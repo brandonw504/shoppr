@@ -1,6 +1,6 @@
 //
 //  AuthenticationManager.swift
-//  running-total-test
+//  shoppr
 //
 //  Created by Brandon Wong on 8/3/22.
 //
